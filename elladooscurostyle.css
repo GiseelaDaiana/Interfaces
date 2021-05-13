@@ -1,0 +1,7 @@
+.elimperio{ background-color: red}
+.losrebeldes{ background-color: blue}
+#estiloLetra{ font-style: italic}
+#tamañoLetra{font-size:  80px}
+.soldado{border-style: dashed  ; letter-spacing:1px}
+.apoyo{ text-align:center}
+.nave{text-transform: uppercase}
